@@ -1,0 +1,14 @@
+.BpageBox{
+    border:3px; border-style:solid; border-color:#ddd;
+    color: white;
+    background-color: #333;
+    width: 75%;
+    position: relative;
+    left: 13%;
+    margin: 0;
+    padding: 0;
+}
+.BpageLink
+{
+    color: #ddd;
+}
