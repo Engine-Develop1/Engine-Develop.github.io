@@ -7,3 +7,8 @@
 .centerText{
     text-align: center;
 }
+.textbox
+{
+    height: auto;
+    width: 75%;
+}
